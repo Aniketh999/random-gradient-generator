@@ -1,8 +1,8 @@
 ## random-gradient-generator
-#A webpage for generating random gradient backgrounds
+A webpage for generating random gradient backgrounds
 
 
-## ## View  Live site [here](http://theanil.me/random-password-generator/)
+ ## View  Live site [here](http://theanil.me/random-gradient-generator/)
 
  
 ## How It Works
