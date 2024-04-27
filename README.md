@@ -1,6 +1,10 @@
-# random-gradient-generator
-A webpage for generating random gradient backgrounds
+## random-gradient-generator
+#A webpage for generating random gradient backgrounds
 
+
+## ## View  Live site [here](http://theanil.me/random-password-generator/)
+
+ 
 ## How It Works
 - Click the 'Random Gradient' button to generate a new random gradient.
 - Click the 'Copy Gradient' button to copy the css property styling for the gradient.
